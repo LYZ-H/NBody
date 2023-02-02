@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/.vs/NBody/FileContentIndex
+/x64
+/NBody.sln
+/.vs/NBody/v17
+/NBody/x64
+/NBody/Release
+/NBody/Debug
+/NBody/NBody.vcxproj.user
+/NBody/NBody.vcxproj.filters
+/NBody/NBody.vcxproj
